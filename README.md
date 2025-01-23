@@ -45,7 +45,7 @@
  - MCA from College of Engineering, Chengannur (2022-2024)
  - BCA from Naipunnya School of Management, Cherthala (2018-2021)
 
-
+```
 const Nikhil = {
     code: ["Javascript", "TypeScript", "Python", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "ML"],
@@ -62,7 +62,7 @@ const Nikhil = {
         misc: ["Firebase", "Socket.IO", "GraphQL"]
     }
 };
-
+```
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
