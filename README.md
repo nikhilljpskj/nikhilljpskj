@@ -20,9 +20,7 @@
 <a href="https://www.hackerrank.com/nikhiljp_skj" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/u/nikhiljp/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode Profile" height="30" width="40" />
-</a>
+
 <a href="https://twitter.com/nikhiljp6?t=LooC615CePucbi_3naY66g&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Nikhil" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nikhil-prakash-069ab0171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilljpskj" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nikhill_jp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikhil" height="30" width="40" /></a>
