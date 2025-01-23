@@ -18,9 +18,9 @@
 <h3 align="left" style="color: #00ff00;">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nikhilljpskj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nikhilljpskj" height="30" width="40" /></a>
-<a href="https://twitter.com/nikhiljp6?t=LooC615CePucbi_3naY66g&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Nikhil_s_" height="30" width="40" /></a>
+<a href="https://twitter.com/nikhiljp6?t=LooC615CePucbi_3naY66g&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Nikhil" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nikhil-prakash-069ab0171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilljpskj" height="30" width="40" /></a>
-<a href="https://instagram.com/Nikhil.s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikhil.s_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nikhill_jp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikhil" height="30" width="40" /></a>
 </p>
 
 <hr style="height:0.5px;border-width:0;color:#00ff00;background-color:#00ff00">
