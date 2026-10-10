@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0b1120" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+
+    <!-- Emerald Glow Gradient -->
+    <linearGradient id="accentGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="50%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.75" stroke-opacity="0.6" />
+    </pattern>
+
+    <!-- Card Background Gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 42px; fill: #f8fafc; letter-spacing: -0.5px; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 19px; fill: #10b981; letter-spacing: 0.5px; }
+    .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 14px; fill: #94a3b8; }
+    .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 12px; fill: #cbd5e1; }
+    .metric-value { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 22px; fill: #f8fafc; }
+    .metric-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 11px; fill: #64748b; letter-spacing: 0.5px; }
+    .code-text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 13px; fill: #38bdf8; }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="320" rx="16" fill="url(#bgGradient)" />
+  <rect width="1200" height="320" rx="16" fill="url(#grid)" />
+
+  <!-- Accent Border Top Line -->
+  <rect x="0" y="0" width="1200" height="4" rx="2" fill="url(#accentGlow)" />
+
+  <!-- Left Accent Geometric Glow -->
+  <circle cx="80" cy="80" r="140" fill="#10b981" opacity="0.08" />
+  <circle cx="1080" cy="240" r="160" fill="#06b6d4" opacity="0.06" />
+
+  <!-- Terminal / Tag Indicator -->
+  <g transform="translate(60, 48)">
+    <rect width="150" height="26" rx="13" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <circle cx="14" cy="13" r="4.5" fill="#10b981" />
+    <text x="26" y="17" class="code-text" font-size="11">~/nikhil-prakash</text>
+  </g>
+
+  <!-- Main Hero Text -->
+  <g transform="translate(60, 116)">
+    <text x="0" y="0" class="title">Nikhil Prakash</text>
+    <text x="0" y="32" class="subtitle">Full-Stack Software Engineer &amp; System Architect</text>
+    <text x="0" y="62" class="desc">Engineering resilient, high-throughput distributed applications &amp; full-stack platforms.</text>
+    <text x="0" y="84" class="desc">30+ client web applications delivered · Enterprise MVC &amp; Microservices · Clean Architecture</text>
+  </g>
+
+  <!-- Key Metrics Cards on Right -->
+  <g transform="translate(770, 48)">
+    <!-- Metric 1: Freelance Web Deliveries -->
+    <rect x="0" y="0" width="170" height="100" rx="10" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5" />
+    <circle cx="24" cy="28" r="6" fill="#10b981" opacity="0.25" />
+    <circle cx="24" cy="28" r="3" fill="#10b981" />
+    <text x="38" y="32" class="metric-label">DELIVERIES</text>
+    <text x="20" y="68" class="metric-value">30+ Sites</text>
+    <text x="20" y="86" class="desc" font-size="11">Full-stack &amp; web</text>
+
+    <!-- Metric 2: Repos & Projects -->
+    <rect x="190" y="0" width="170" height="100" rx="10" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5" />
+    <circle cx="214" cy="28" r="6" fill="#06b6d4" opacity="0.25" />
+    <circle cx="214" cy="28" r="3" fill="#06b6d4" />
+    <text x="228" y="32" class="metric-label">CODEBASE</text>
+    <text x="210" y="68" class="metric-value">85+ Repos</text>
+    <text x="210" y="86" class="desc" font-size="11">Open source &amp; tools</text>
+
+    <!-- Metric 3: Education Degree -->
+    <rect x="0" y="116" width="170" height="100" rx="10" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5" />
+    <circle cx="24" cy="144" r="6" fill="#3b82f6" opacity="0.25" />
+    <circle cx="24" cy="144" r="3" fill="#3b82f6" />
+    <text x="38" y="148" class="metric-label">ACADEMICS</text>
+    <text x="20" y="184" class="metric-value">MCA Degree</text>
+    <text x="20" y="202" class="desc" font-size="11">CEC · Computer Apps</text>
+
+    <!-- Metric 4: Core Philosophy -->
+    <rect x="190" y="116" width="170" height="100" rx="10" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5" />
+    <circle cx="214" cy="144" r="6" fill="#a855f7" opacity="0.25" />
+    <circle cx="214" cy="144" r="3" fill="#a855f7" />
+    <text x="228" y="148" class="metric-label">FOCUS</text>
+    <text x="210" y="184" class="metric-value">Clean Code</text>
+    <text x="210" y="202" class="desc" font-size="11">Scalable &amp; Typed</text>
+  </g>
+
+  <!-- Core Tech Stack Pill Badges on Bottom Left -->
+  <g transform="translate(60, 246)">
+    <!-- TypeScript -->
+    <rect x="0" y="0" width="105" height="32" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="14" y="20" class="badge-text">TypeScript</text>
+
+    <!-- React / Next.js -->
+    <rect x="115" y="0" width="125" height="32" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="127" y="20" class="badge-text">React / Next.js</text>
+
+    <!-- Node.js -->
+    <rect x="250" y="0" width="85" height="32" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="262" y="20" class="badge-text">Node.js</text>
+
+    <!-- PHP / Laravel -->
+    <rect x="345" y="0" width="115" height="32" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="357" y="20" class="badge-text">PHP / MySQL</text>
+
+    <!-- Python -->
+    <rect x="470" y="0" width="85" height="32" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="484" y="20" class="badge-text">Python</text>
+
+    <!-- Docker -->
+    <rect x="565" y="0" width="85" height="32" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="581" y="20" class="badge-text">Docker</text>
+  </g>
+</svg>

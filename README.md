@@ -1,72 +1,176 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwNDAxNjMsIm5iZiI6MTczMDAzOTg2MywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI3VDE0Mzc0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiMGNjYjcwODYzMWE5YzA2N2IwNzhmZmZiYmUyNDkxNTMxOTM1Y2FjOWYzNjU5NzEwN2YzOWI0Nzk0N2QxYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._gBXMd0a_9Ni8Mlur_kt7RXS-jpVC2SV0peKTg7HDLs" width="1200">
-<h1 align="center">Hey, I'm <a href="https://www.nikhiljp.in/" style="color: #0000;">Nikhil</a></h1> 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> -->
-<h3 align="center">I'm a tech fanatic with a masters in Computer Application from <a href="https://www.ceconline.edu/" style="color: #00ff00;">CEC</a> .</h3>
-<h3 align="center">📌 Pathanamthitta, Kerala, India </h3>
-
-🌐 [nikhiljp.in](https://www.nikhiljp.in/)
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-<hr style="height:0.5px;border-width:0;color:#00ff00;background-color:#00ff00">
-
-- 🌱 I'm currently learning *Next, React, TypeScript, Postgress, Node.js*
-
-- 👨‍💻 All of my projects are available at [https://github.com/nikhilljpskj?tab=repositories](https://github.com/nikhilljpskj?tab=repositories)
-
-- 📫 How to reach me *nikhiljp.skj@gmail.com*
-
-<h3 align="left" style="color: #00ff00;">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/nikhiljp_skj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="30" width="40" /></a>
-<a href="https://twitter.com/nikhiljp6?t=LooC615CePucbi_3naY66g&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Nikhil" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nikhil-prakash-069ab0171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilljpskj" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nikhill_jp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikhil" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Nikhil Prakash - Full-Stack Software Engineer" width="100%" />
 </p>
 
-<hr style="height:0.5px;border-width:0;color:#00ff00;background-color:#00ff00">
+<h1 align="center">Nikhil Prakash</h1>
 
-<h3 align="left" style="color: #00ff00;">Languages and Tools:</h3> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>Full-Stack Software Engineer &amp; System Architect</strong><br>
+  <em>Engineering scalable web platforms, distributed APIs, and reliable database architectures</em>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+<p align="center">
+  <a href="https://www.nikhiljp.in/"><img src="https://img.shields.io/badge/Portfolio-nikhiljp.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=10b981" alt="Portfolio" /></a>
+  <a href="https://github.com/nikhilljpskj?tab=repositories"><img src="https://img.shields.io/badge/GitHub-85%2B_Repositories-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc" alt="GitHub Repositories" /></a>
+  <a href="https://www.linkedin.com/in/nikhil-prakash-069ab0171/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>
+  <a href="mailto:nikhiljp.skj@gmail.com"><img src="https://img.shields.io/badge/Email-nikhiljp.skj%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email" /></a>
+  <a href="https://leetcode.com/u/nikhiljp/"><img src="https://img.shields.io/badge/LeetCode-Profile-0f172a?style=for-the-badge&logo=leetcode&logoColor=f59e0b" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/nikhiljp_skj"><img src="https://img.shields.io/badge/HackerRank-Profile-0f172a?style=for-the-badge&logo=hackerrank&logoColor=22c55e" alt="HackerRank" /></a>
+</p>
 
-<!-- Modified GitHub stats with green theme -->
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilljpskj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="nikhilljpskj" /></p>
-<br>
+<p align="center">
+  📍 Pathanamthitta, Kerala, India &nbsp;|&nbsp; 🌐 IST (UTC+5:30) &nbsp;|&nbsp; 🚀 30+ Freelance Web Projects Delivered
+</p>
 
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=nikhilljpskj&show_icons=true&theme=chartreuse-dark&hide_border=true&locale=en" alt="nikhilljpskj" /></p>
-<br>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilljpskj&theme=chartreuse-dark&hide_border=true&locale=en" alt="nikhilljpskj" /></p>
+## 👨‍💻 About Me
 
+I am a full-stack software engineer with a strong focus on clean architecture, type safety, and maintainable systems. My engineering background spans building complete client web applications from concept to production, architecting domain-driven backend microservices and RESTful APIs, and implementing responsive, performant user interfaces.
 
+- **Full-Stack Engineering:** Delivered 30+ freelance web applications, commercial portals, and business management systems using modern JavaScript/TypeScript, PHP, and Python.
+- **Architectural Approach:** Strong adherence to separation of concerns, repository patterns, role-based access control (RBAC), and transactional integrity across relational and document databases.
+- **Continuous Quality:** Deep focus on runtime performance, sub-second latency, clean debugging, automated deployments, and reproducible containerized environments.
+- **Academics:** Master of Computer Applications (MCA) graduate from the College of Engineering Chengannur.
 
-### 🎓 Education
- - MCA from College of Engineering, Chengannur (2022-2024)
- - BCA from Naipunnya School of Management, Cherthala (2018-2021)
+---
+
+## 🛠️ Technical Expertise
+
+### Languages & Runtimes
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="assets/icons/typescript.svg" alt="TypeScript" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="assets/icons/javascript.svg" alt="JavaScript" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="assets/icons/php.svg" alt="PHP" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="assets/icons/python.svg" alt="Python" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="assets/icons/nodejs.svg" alt="Node.js" width="40" height="40" /></a>
+</p>
+
+### Frontend Engineering
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="assets/icons/react.svg" alt="React" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="assets/icons/nextjs.svg" alt="Next.js" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="assets/icons/html5.svg" alt="HTML5" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="assets/icons/css3.svg" alt="CSS3" width="40" height="40" /></a>
+</p>
+
+### Backend & Frameworks
+<p align="left">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="assets/icons/express.svg" alt="Express.js" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="assets/icons/laravel.svg" alt="Laravel" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="assets/icons/django.svg" alt="Django" width="40" height="40" /></a>
+</p>
+
+### Databases & Storage
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="assets/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="assets/icons/mysql.svg" alt="MySQL" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="assets/icons/mongodb.svg" alt="MongoDB" width="40" height="40" /></a>
+</p>
+
+### DevOps, Tooling & Systems
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="assets/icons/docker.svg" alt="Docker" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="assets/icons/git.svg" alt="Git" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="assets/icons/linux.svg" alt="Linux" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="assets/icons/postman.svg" alt="Postman" width="40" height="40" /></a>
+</p>
+
+---
+
+## 🚀 Featured Engineering Projects
+
+A selection of full-stack web applications, healthcare platforms, and business systems verified from public source repositories and live deployments:
+
+| Project | Architecture & Focus | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Holter Monitoring Platform** | Production-ready medical SaaS with custom MVC architecture, 5-tier Role-Based Access Control (Admin, Staff, Hospital, Technician, Patient), PDO prepared statements, and automated patient diagnostics data workflows. | `PHP 8` `MySQL 8` `Custom MVC` `RBAC` `Bootstrap 5` | [📁 Source Code](https://github.com/nikhilljpskj/Holter-Monitoring) |
+| **PortfoMeister** | Scalable portfolio generation platform with interactive theme customizer, rich UI component library, and automated Supabase database integration. | `React 18` `Supabase` `Material UI` `Styled Components` | [📁 Source Code](https://github.com/nikhilljpskj/PortfoMeister) &nbsp;•&nbsp; [🌐 Live App](https://portfo-meister001-git-master-nikhilljpskj.vercel.app/) |
+| **Noolukettu Platform** | High-performance modern web application built on Next.js 16 and React 19, featuring modern CSS styling, fluid micro-interactions, and React Compiler optimization. | `Next.js 16` `React 19` `TypeScript 5` `Tailwind CSS 4` | [📁 Source Code](https://github.com/nikhilljpskj/Noolukettu) &nbsp;•&nbsp; [🌐 Live App](https://noolukettu.vercel.app) |
+| **Audacix Game Engine** | Decoupled full-stack system featuring Django REST Framework backend with state machines, session management, and React interactive client. | `Python 3` `Django REST` `React` `REST API` | [📁 Source Code](https://github.com/nikhilljpskj/Audacix-Hangman) |
+| **FalkenERP System** | Business enterprise platform implementing JWT authentication, modular route controllers, user permission profiles, and operational metrics dashboard. | `Node.js` `Express.js` `REST API` `JWT Auth` | [📁 Source Code](https://github.com/nikhilljpskj/FalkenERP) |
+| **Field-Tracking Enterprise** | Real-time workforce management system with multi-department meeting scheduling, attendance logging, and schema migration pipelines. | `PHP` `MySQL` `SQL Migrations` `REST` | [📁 Source Code](https://github.com/nikhilljpskj/Field-Tracking) |
+
+<details>
+  <summary><strong>🔍 View Additional Verified Deliveries &amp; Demos</strong></summary>
+
+- **[PSP E-Commerce Platform](https://psp-kappa.vercel.app)** — Multi-category online storefront with dynamic cart state and responsive checkout UI ([Source Code](https://github.com/nikhilljpskj/PSP)).
+- **[Falken Ridge Corporate Portal](https://falken-ridge.vercel.app)** — Corporate business showcase site with animated UI components ([Source Code](https://github.com/nikhilljpskj/FalkenRidge)).
+- **[CM Hospital Web Portal](https://cm-hospital.vercel.app)** — Healthcare facility portal with department overview and patient consultation contact flows ([Source Code](https://github.com/nikhilljpskj/CM-Hospital)).
+- **[AdBullet Platform](https://ad-bullet.vercel.app)** — Digital advertising landing page and campaign showcase ([Source Code](https://github.com/nikhilljpskj/AdBullet)).
+</details>
+
+---
+
+## 🎯 Engineering Focus & Problem Solving
 
 ```
-const Nikhil = {
-    code: ["Javascript", "TypeScript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "ML"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["tailwind", "bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["flask", "Django"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        misc: ["Firebase", "Socket.IO", "GraphQL"]
+const NikhilPrakash = {
+    engineeringSpecialization: [
+        "Distributed Web Architectures",
+        "Full-Stack API Design & Optimization",
+        "Relational Schema Design & Query Performance",
+        "Role-Based Access Control (RBAC) & Authentication",
+        "CI/CD Pipeline Automation & Containerization"
+    ],
+    technicalStandards: {
+        typing: "Strict TypeScript end-to-end",
+        architecture: "Domain-Driven / Clean MVC / Modular Services",
+        dataIntegrity: "ACID compliance & parameterized database queries",
+        deployment: "Zero-downtime, automated rollouts & containerized stacks"
     }
 };
 ```
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-</p>
-![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
-💬 Feel free to reach out if you want to discuss technology,or just want to say hi!
+- **API Design & Integration:** Designing predictable RESTful interfaces, managing CORS, rate limiting, token-based authentication (JWT/OAuth), and resilient webhook processing.
+- **Relational & Document Databases:** Schema normalization, foreign key constraints, indexing strategies, and database migrations with PostgreSQL and MySQL.
+- **Frontend Precision & Performance:** Zero-layout-shift UI engineering, server components with Next.js, responsive layouts with modern Tailwind CSS, and minimal bundle sizes.
+- **Production Reliability & Debugging:** Root-cause analysis, containerization with Docker, multi-stage builds, and structured logging.
+
+---
+
+## 📊 GitHub Activity & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilljpskj&show_icons=true&theme=tokyonight&hide_border=true&title_color=10b981&text_color=94a3b8&icon_color=06b6d4" alt="Nikhil's GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilljpskj&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&title_color=10b981&text_color=94a3b8" alt="Top Languages" height="165" />
+</p>
+
+<!-- Optional Contribution Snake Animation (Automated via .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilljpskj/nikhilljpskj/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilljpskj/nikhilljpskj/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/nikhilljpskj/nikhilljpskj/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+---
+
+## 🎓 Education
+
+- **Master of Computer Applications (MCA)**  
+  *College of Engineering Chengannur (CEC)* &nbsp;•&nbsp; 2022 – 2024
+- **Bachelor of Computer Applications (BCA)**  
+  *Naipunnya School of Management, Cherthala* &nbsp;•&nbsp; 2018 – 2021
+
+---
+
+## 🤝 Connect With Me
+
+Looking to build high-performance web applications, scale existing backend services, or discuss technical collaboration? Feel free to reach out:
+
+<p align="left">
+  <a href="https://www.nikhiljp.in/"><img src="https://img.shields.io/badge/Personal_Portfolio-nikhiljp.in-0f172a?style=flat-square&logo=googlechrome&logoColor=10b981" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nikhil-prakash-069ab0171/"><img src="https://img.shields.io/badge/LinkedIn-Nikhil_Prakash-0f172a?style=flat-square&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:nikhiljp.skj@gmail.com"><img src="https://img.shields.io/badge/Email-nikhiljp.skj%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=ef4444" alt="Email" /></a>&nbsp;
+  <a href="https://leetcode.com/u/nikhiljp/"><img src="https://img.shields.io/badge/LeetCode-nikhiljp-0f172a?style=flat-square&logo=leetcode&logoColor=f59e0b" alt="LeetCode" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/profile/nikhiljp_skj"><img src="https://img.shields.io/badge/HackerRank-nikhiljp__skj-0f172a?style=flat-square&logo=hackerrank&logoColor=22c55e" alt="HackerRank" /></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Crafted with clean code, verified technical assets, and zero expired dependencies.</sub>
+</p>
