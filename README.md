@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.nikhiljp.in/"><img src="https://img.shields.io/badge/Portfolio-nikhiljp.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=10b981" alt="Portfolio" /></a>
-  <a href="https://github.com/nikhilljpskj?tab=repositories"><img src="https://img.shields.io/badge/GitHub-85%2B_Repositories-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc" alt="GitHub Repositories" /></a>
+  <a href="https://github.com/nikhilljpskj?tab=repositories"><img src="https://img.shields.io/badge/GitHub-86_Public_·_180%2B_Total_Repos-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc" alt="GitHub Repositories" /></a>
   <a href="https://www.linkedin.com/in/nikhil-prakash-069ab0171/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>
   <a href="mailto:nikhiljp.skj@gmail.com"><img src="https://img.shields.io/badge/Email-nikhiljp.skj%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email" /></a>
   <a href="https://leetcode.com/u/nikhiljp/"><img src="https://img.shields.io/badge/LeetCode-Profile-0f172a?style=for-the-badge&logo=leetcode&logoColor=f59e0b" alt="LeetCode" /></a>

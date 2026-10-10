@@ -77,8 +77,8 @@
     <circle cx="214" cy="28" r="6" fill="#06b6d4" opacity="0.25" />
     <circle cx="214" cy="28" r="3" fill="#06b6d4" />
     <text x="228" y="32" class="metric-label">CODEBASE</text>
-    <text x="210" y="68" class="metric-value">85+ Repos</text>
-    <text x="210" y="86" class="desc" font-size="11">Open source &amp; tools</text>
+    <text x="210" y="68" class="metric-value">180+ Repos</text>
+    <text x="210" y="86" class="desc" font-size="11">86 public · tools &amp; apps</text>
 
     <!-- Metric 3: Education Degree -->
     <rect x="0" y="116" width="170" height="100" rx="10" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5" />
