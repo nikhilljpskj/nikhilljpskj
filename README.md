@@ -131,20 +131,19 @@ const NikhilPrakash = {
 
 ---
 
-## 📊 GitHub Activity & Statistics
+## 📊 GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilljpskj&show_icons=true&theme=tokyonight&hide_border=true&title_color=10b981&text_color=94a3b8&icon_color=06b6d4" alt="Nikhil's GitHub Stats" height="165" />
+  <a href="https://github.com/nikhilljpskj">
+    <img src="assets/contribution-chart.svg" alt="Nikhil's GitHub Contribution Grid" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilljpskj&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=10b981&text_color=94a3b8&icon_color=06b6d4&hide=issues" alt="Nikhil's GitHub Stats" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilljpskj&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&title_color=10b981&text_color=94a3b8" alt="Top Languages" height="165" />
 </p>
-
-<!-- Optional Contribution Snake Animation (Automated via .github/workflows/snake.yml) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilljpskj/nikhilljpskj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilljpskj/nikhilljpskj/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/nikhilljpskj/nikhilljpskj/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 ---
 
